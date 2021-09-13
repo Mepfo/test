@@ -2,7 +2,7 @@
 
 /* navbar 수정 */
 .navbar-marketing.navbar-dark{
-  background-color: red !important;
+  background-color: rgb(193, 183, 183) !important;
 }/* 스크롤전 */
 .navbar-marketing.navbar-dark.navbar-scrolled{
   background-color: teal !important;
